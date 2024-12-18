@@ -1,1 +1,29 @@
+# Issue 1: Computer Takes a Long Time to Boot Up
 
+## Problem:
+
+
+Sarah's computer used to boot up within a minute, but now it takes over five minutes.
+
+## Questions to Clarify:
+- When did the long boot time start happening?
+- Have you installed any new software or updates recently?
+- Does the system hang at a specific point during booting (e.g., after the Windows logo)?
+- How much free space is available on the system disk?
+
+## Troubleshooting Steps:
+1. **Check Startup Programs:**
+   - Press **Ctrl + Shift + Esc** to open Task Manager.
+   - Go to the **Startup** tab and disable unnecessary programs.
+2. **Run Disk Cleanup:**
+   - Type "Disk Cleanup" in the Start menu, select the system drive, and clean up system files.
+3. **Check for System File Corruption:**
+   - Run `sfc /scannow` in an elevated Command Prompt to repair system files.
+4. **Check Disk Health:**
+   - Run `chkdsk /f` to check for disk errors.
+
+**Websites used:**
+
+https://www.avg.com/en/signal/no-internet-connection#:~:text=Common%20ways%20to%20fix%20problems,connected%20to%20the%20right%20network.
+
+https://answers.microsoft.com/en-us/windows/forum/all/cannot-connect-to-internet/dad5ddd2-ad64-4b1d-832d-86bf36fc9077
