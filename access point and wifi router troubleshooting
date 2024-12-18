@@ -1,1 +1,28 @@
+# Wi-Fi Router and Access Point Troubleshooting
 
+## 1. Power Cycle the Router/Access Point
+- Turn off the router, wait 30 seconds, and turn it back on to resolve many connection issues.
+
+## 2. Check Physical Connections
+- Verify that all cables (power, Ethernet, etc.) are securely connected to the router.
+
+## 3. Verify Router Lights
+- Check the indicator lights on the router for any abnormalities. If the internet light is red or not lit, there may be an issue with your ISP or settings.
+
+## 4. Change Wi-Fi Channel
+- Switch to a less congested Wi-Fi channel to avoid interference from nearby networks.
+
+## 5. Check for Interference
+- Move your router away from other electronics that could cause interference, such as microwaves or cordless phones.
+
+## 6. Update Firmware
+- Ensure the router's firmware is up to date to prevent bugs or performance issues.
+
+## 7. Reset the Router
+- If all else fails, reset the router to its factory settings, but remember to reconfigure your Wi-Fi settings afterward.
+
+**Websites used:&**
+
+https://www.reddit.com/r/HomeNetworking/comments/xdl6ge/tips_to_troubleshoot_home_internet_issues/
+
+https://www.techtarget.com/searchnetworking/tip/Wireless-network-troubleshooting-Connectivity
